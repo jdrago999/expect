@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     author='Foo Barley',
     author_email='foo@example.com',
-    packages=['expect', 'expect.tests'],
+    packages=['expect', 'tests'],
     url='https://github.com/sumeet/expect',
     description='Mocks and stubs for Python with RSpec\'s syntax',
     long_description=open('README.markdown').read(),
